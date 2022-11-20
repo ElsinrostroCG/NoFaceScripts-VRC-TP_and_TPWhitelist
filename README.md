@@ -1,6 +1,10 @@
 # NoFaceScripts-VRC-TP_and_TPWhitelist
 Teleport Script for VR Chat, includes Whitelist Option
 
+
+[ UDON GRAPH ]
+
+
 STEPS:
 
 1) Import the unity package into your project
@@ -19,10 +23,13 @@ STEPS:
 
 8) Assign SFX (Audio Source)
 
-- ADDITIONAL STEPS FOR 'RESTRICTED' VARIANT -
+-----------------------------------------------------------------
+- ADDITIONAL STEPS FOR 'RESTRICTED' VARIANT
+-----------------------------------------------------------------
 9) Assign Player Names to Whitelist (Strings Array List)
 
 10) Assign Fail SFX for Forbidden Users (Audio Source)
+-----------------------------------------------------------------
 
 11) Enjoy!
 
